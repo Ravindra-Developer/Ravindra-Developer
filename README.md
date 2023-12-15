@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravindra Maurya</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning **UI Development**
 
 - 💬 Ask me about **Node.js, Laravel, MEAN Stack**
 
-- 📫 How to reach me **ravindramaurya.developer@gmail.com**
+- 📫 How to reach me **ravindramaurya.developer@gmail.com | 9730423102**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
