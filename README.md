@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ravindramaurya.developer@gmail.com | 9730423102**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
