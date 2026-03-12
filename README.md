@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravindra Maurya</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **UI Development**
-
-- 💬 Ask me about **Node.js, Laravel, MEAN Stack**
+- 💬 Ask me about **Node.js, AWS, Angular, React, MongoDB, PostgreSQL Express.js, NestJS**
 
 - 📫 How to reach me **ravindramaurya.developer@gmail.com | 9730423102**
 
