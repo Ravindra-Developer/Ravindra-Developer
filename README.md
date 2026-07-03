@@ -1,24 +1,88 @@
 <h1 align="center">Hi 👋, I'm Ravindra Maurya</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 💬 Ask me about **Node.js, AWS, Angular, React, MongoDB, PostgreSQL Express.js, NestJS**
+<h3 align="center">
+Software Engineer • MEAN Stack Developer • AI Engineering Enthusiast
+</h3>
 
-- 📫 How to reach me **ravindramaurya.developer@gmail.com | 9730423102**
-
-<p align="left">
+<p align="center">
+Building scalable web applications today while exploring the future of AI, Agentic Systems, and LLMs.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Software Engineer with **4+ years** of industry experience.
+- 🚀 Experienced in designing and developing scalable full-stack applications.
+- 🌱 Currently learning **AI Engineering, LangChain, LangGraph, Agentic AI & LLMs**.
+- 💬 Ask me about **Angular, TypeScript, Node.js, Express.js, NestJS, MongoDB, PostgreSQL, Docker**.
+- 📫 Reach me at **ravindramaurya.developer@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,sass" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,webpack,postman" />
+</p>
+
+### AI & LLM Ecosystem
+
+## 🤖 AI & LLM Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Currently Exploring
+
+- 🤖 AI Engineering
+- 🦜 LangChain
+- 🌐 LangGraph
+- 🧠 Large Language Models (LLMs)
+- 🔄 Agentic AI
+- ⚡ n8n Automation
+- 🏗️ Software Architecture & Design Patterns
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **ravindramaurya.developer@gmail.com**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
